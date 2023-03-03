@@ -1,0 +1,29 @@
+Body{
+ background-image: url(Assets/bg.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+.login-card {
+  margin-top : 9.6rem !important;
+}
+
+.login-card1 {
+  margin-top : 7.6rem !important;
+}
+
+
+.logo-image {
+  width: 20% !important;
+  border-radius: 50%;
+}
+
+.btn {
+  margin-top: 1.5rem;
+  width: fit-content;
+}
+
+.submit {
+text-decoration: none !important;
+}
